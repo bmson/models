@@ -1,2 +1,0 @@
-# models
-Simple Data Models
